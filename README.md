@@ -3,9 +3,7 @@ User can manage employee database by command line.
 
 ### Github: https://github.com/fumixer/Employee-Tracker
 
-
-### Walkthrough video: 
-
+### Walkthrough video: https://drive.google.com/file/d/1b1idQZueyaDsdi3TaeJz9ZywOyAbkdFQ/view?usp=sharing
 
 ## Usage
 User can view all the department, employee and roles.
@@ -23,8 +21,3 @@ User can view all the department, employee and roles.
 * console.table
 
 ![licence badge](https://img.shields.io/badge/license-MIT-orange.png)
-
-
-
-
-
