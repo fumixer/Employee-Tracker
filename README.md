@@ -8,11 +8,12 @@ User can manage employee database by command line.
 
 
 ## Usage
-
+User can view all the department, employee and roles.
 
 ## Screenshots
-
-
+![schema](./img/1.png)
+![seeds](./img/2.png)
+![output](./img/3.png)
 
 ## Technologies
 * node.js
